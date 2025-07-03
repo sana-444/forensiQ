@@ -1,1 +1,15 @@
+Flask==2.3.2 
 
+Flask-PyMongo==2.3.0 
+
+pymongo==4.3.3 
+
+joblib==1.3.2 
+
+pyshark==0.6 
+
+pytsk3==20230508 
+
+Jinja2==3.1.2 
+
+pytsk3==20231007 
